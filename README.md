@@ -146,4 +146,7 @@
   - Gaurav Sharma - [gauravsharma-gs](https://github.com/gauravsharma-gs)
 ## License
 This project is licensed under the MIT - see the [LICENSE](https://github.com/nikhildsahu/E-Certify/blob/master/LICENSE) file for details.
+
+### Pycharm:
+Isntallation
   
